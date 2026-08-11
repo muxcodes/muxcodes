@@ -1,12 +1,10 @@
-<h1 align="center">👋 Hey, I'm Mux</h1>
+## 👋 Bem-vindo ao meu GitHub
 
-<h3 align="center">Software Developer | ADS Student</h3>
+Olá! Sou **Thiago**, também conhecido como **Mux**. Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia e programação.
 
-<p align="center">
-  👨‍💻 Turning ideas into code.<br>
-  ⚡ JavaScript • Web Development • Building cool stuff<br>
-  🚀 Always learning. Always building.
-</p>
+Atualmente, estou focado em aprimorar meus conhecimentos em **JavaScript**, desenvolvimento web e lógica de programação, enquanto desenvolvo projetos próprios para colocar em prática tudo o que venho aprendendo.
+
+Aqui você encontrará meus projetos, estudos e um pouco da minha evolução como desenvolvedor. 🚀
 
 <br>
 
