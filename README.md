@@ -10,7 +10,16 @@
 
 <br>
 
-<h2 align="center">🐍 My Contributions</h2>
+## 🚧 O que estou fazendo atualmente
+
+- 💻 Estudando **Análise e Desenvolvimento de Sistemas**
+- ⚡ Aprimorando meus conhecimentos em **JavaScript**
+- 🌐 Criando projetos para **Web**
+- 🧠 Praticando lógica de programação e desenvolvimento de aplicações
+- 🚀 Construindo projetos pessoais para evoluir como desenvolvedor
+- 📚 Sempre aprendendo novas tecnologias
+
+<br>
 
 <p align="center">
   <picture>
